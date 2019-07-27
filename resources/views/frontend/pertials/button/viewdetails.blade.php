@@ -1,0 +1,1 @@
+<a href="{!! route('product_details', $product->id) !!}" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View Details</a>
